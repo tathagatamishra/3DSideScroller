@@ -2,6 +2,10 @@
 
 3DSideScroller developed with Unreal Engine 5
 
+<p align="center" font="Outfit">
+<img src="https://github.com/user-attachments/assets/c5ed407f-de66-40a6-8747-1efe5b279847" width="50">
+</p>
+
 - Controlling the ball using physics
 
 ![image](https://github.com/user-attachments/assets/2a24b334-c36b-4c5b-bfdc-b609ac49a499)
