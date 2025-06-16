@@ -10,17 +10,17 @@
 
 ## 🧠 Core Gameplay Loop Summary
 
-> **Player Goal (X):**
+> **Player Does X:**
 
 * ✅ Collect **Energy Modules**
 * ✅ Collect **Memory Shards**
 
-> **To Achieve (Y):**
+> **To Achieve Y:**
 
-* 🌍 Restore the **World’s Energy Core**
-* 🧠 Reconstruct the **Player’s Lost Memory**
+* 🧠 Reconstruct the **Own Memory**
+* 🌍 Restore the **World Energy Core**
 
-> **While Avoiding (Z):**
+> **While Avoiding Z:**
 
 * 🤖 Hostile **AI Drones**
 * 💥 Dangerous **EMP Traps**
@@ -32,27 +32,25 @@
 
 * 🔧 All energy modules recovered
 * ⚡ Core reactivated
-* 💡 Final memory sequence restored
-  → *Triggers end cutscene / victory state.*
+* 💡 Compile memory in sequence
 
 ---
 
 ## 💀 Fail State
 
-* ❌ Missed critical energy modules
+* ❌ Failed to collect critical energy modules
 * ❌ Failed to compile memory in the correct sequence
-  → *Triggers shutdown / corruption / restart scenario.*
 
 ---
 
-## 🎯 Minimum Viable Content (Vertical Slice Ready)
+## 🎯 Minimum Viable Content
 
-* 🟢 A **rollable ball** (player character)
+* 🟢 A **sphere** (player character)
 * 🧱 Modular **platform tiles**
 * ⚙️ Hostile **AI Drones**
 * 🧩 Scattered **memory shards**
 * 🔋 Scattered **energy modules**
 * 💠 Central **energy core** (goal destination)
-* 🖥️ Basic **UI** (energy, memory progress, damage, etc.)
+* 🖥️ Basic **UI** (energy, memory progress, damage)
 
 ---
